@@ -58,7 +58,7 @@ round-avatar: true
 social-network-links:
   email: "contact@svga.ch"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: people/SVGAch/100089481011461/
+  facebook: svga.ch
   github: orgs/SVGA-ch
   twitter: svga_ch
   linkedin: company/svga-ch
