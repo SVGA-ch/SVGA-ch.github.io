@@ -1,0 +1,8 @@
+fr:
+  label: Français
+  label-min: français
+  label-short: FRA
+en:
+  label: English
+  label-min: english
+  label-short: ENG
