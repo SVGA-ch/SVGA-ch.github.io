@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Création de l'association SVGA
+lang: fr
+lang-ref: creation-svga
 #subtitle: Résumé du post
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png

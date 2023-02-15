@@ -17,6 +17,9 @@ title: SVGA
 # Your name to show in the footer
 author: "Association SVGA (Swiss Video Game Archivists)"
 
+# lang: fr
+# languages: ["fr", "en"]
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
