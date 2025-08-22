@@ -31,9 +31,11 @@ navbar-links:
     - Nos statuts et missions: "statuts"
     - Résumé: "resume"
   Projets en cours:
+    - Projet sureté électrique: "surete_fr"
     - Annonces à venir: "/"
   Projets terminés:
-    - Pixelvetica: "pixelvetica"
+    - Pixelvetica: "pixelvetica_fr"
+    - CQFD: "CQFD_fr"
   Contact: "contact"
 
 ################
